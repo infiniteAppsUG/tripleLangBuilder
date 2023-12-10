@@ -1,4 +1,4 @@
-##infiniteApps' tripleLangBuilder for Flutter
+## infiniteApps' tripleLangBuilder for Flutter
 
 This builder helps you to create several translations for your Flutter project at once. This is necessary if you want to publish your Flutter app in different markets with their respective languages, e.g. Spanish in Spain and Latin America.
 
